@@ -1,1 +1,2 @@
 The analysis and visualizations provided in this project aim to offer stakeholders a comprehensive understanding of Global Superstore's sales data. By exploring different aspects of the dataset, users can gain valuable insights into sales patterns, shipping costs, and geographic performance
+![Screenshot 2025-05-01 135119](https://github.com/user-attachments/assets/302d93b5-3c30-4739-843a-d970499276ee)
